@@ -1,6 +1,4 @@
 using Microsoft.EntityFrameworkCore;
-using MinhasTarefas.API.Converter;
-using MinhasTarefas.API.DTO;
 using MinhasTarefas.API.Endpoints;
 using MinhasTarefas.Dados;
 using MinhasTarefas.Modelos;
